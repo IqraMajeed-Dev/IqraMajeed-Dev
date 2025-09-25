@@ -52,7 +52,7 @@ With a focus on delivering secure and user-friendly digital products, I bring ex
 # 📊 GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=IqraMajeed-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165" style="margin-right: 10px;" />
+   <img src="https://github-readme-stats.vercel.app/api?username=IqraMajeed-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="165" style="margin-right: 40px;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=IqraMajeed-Dev&theme=dark&hide_border=false" height="165"/>
   <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraMajeed-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="165" width="400"/>
