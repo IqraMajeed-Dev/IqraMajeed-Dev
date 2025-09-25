@@ -51,7 +51,7 @@ With a focus on delivering secure and user-friendly digital products, I bring ex
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IqraMajeed-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=IqraMajeed-Dev&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=IqraMajeed-Dev&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IqraMajeed-Dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
