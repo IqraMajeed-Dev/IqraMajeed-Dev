@@ -6,7 +6,7 @@ I have developed and deployed scalable web and mobile applications, including a 
 With a focus on delivering secure and user-friendly digital products, I bring experience in UI/UX design alongside technical implementation. I have collaborated on diverse projects that required teamwork, adaptability, and the ability to align solutions with business goals. My professional aim is to continue creating impactful software that combines robust backend systems with engaging user experiences.
 <br><br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=google-chrome&logoColor=white&style=for-the-badge)](www.com)
-[![CV](https://img.shields.io/badge/CV-0976b4?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](www.com)
+[![CV](https://img.shields.io/badge/CV-0976b4?logo=adobe-acrobat-reader&logoColor=white&style=for-the-badge)](https://drive.google.com/file/d/1jvShr6sypVZnmI2W5L-ShGd_9IrNEItN/view?usp=drive_link)
 
 
 
